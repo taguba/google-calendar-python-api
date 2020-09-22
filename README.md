@@ -12,5 +12,5 @@ The codebase in the repository, helps you to list, create, update, and delete, e
 
 
 ## Changes
-
-1. Put all capabilities, add, list, create, update, and delete on a single class called a google_scheduler
+---
+### 2020-09-22: Put all capabilities, add, list, create, update, and delete on a single class called a google_scheduler
